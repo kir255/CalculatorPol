@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.exe
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.deps.json
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.runtimeconfig.json
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.dll
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\ref\calculatorPol.dll
+C:\Users\Пользователь\source\repos\calculatorPol\bin\Debug\net5.0\calculatorPol.pdb
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.dll
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\ref\calculatorPol.dll
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.pdb
+C:\Users\Пользователь\source\repos\calculatorPol\obj\Debug\net5.0\calculatorPol.genruntimeconfig.cache
